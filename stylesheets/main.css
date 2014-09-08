@@ -1,0 +1,25 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body {
+  background-color: #eee;
+}
+
+table td, table th {
+  padding: 10px;
+}
+
+table tr:nth-child(2n) {
+  background-color: #eee;
+}
+
+h1.site-header a {
+  color: #000;
+}
+
+h3:first-child a {
+  color: #000;
+}
