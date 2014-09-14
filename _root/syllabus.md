@@ -7,7 +7,7 @@ layout: syllabus
 Location: Station 101  
 Time: Mondays, 9:00 am - 3:00 pm  
 Instructor: Marty McGuire; Email: rmcguire@mica.edu; Hours by appointment.  
-Class Website: http://marty-mcguire.com/classes/iafl-2014fall/  
+Class Website: http://marty-mcguire.com/iafl-2014fall/  
 
 ### Course Description
 This class will cover the basics of 2D and 3D design fabrication in the MICA dFab lab. Students will learn to work with a variety of 3D printers as well as extended techniques integrating the hand made and the digitally printed to create robotic arts, sound, games and new materials projects. 3D laser scanning will also be covered. The class is ideally suited for students whose practice incorporates electronics/robotics, sculpture, games, and sound, and who wish to complement their skills with advanced and experimental fabrication techniques.
