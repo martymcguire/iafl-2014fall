@@ -11,5 +11,5 @@
 ### Classes
 
 {{# weeks.all }}
-  <a href="{{url}}">{{title}}</a>
+  <a href="{{url}}">{{title}}</a><br/>
 {{/ weeks.all }}
