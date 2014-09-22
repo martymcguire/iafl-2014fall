@@ -23,3 +23,7 @@ h1.site-header a {
 .main-content > h3 a {
   color: #000;
 }
+
+hr {
+  border-top: 1px solid #ccc;
+}
