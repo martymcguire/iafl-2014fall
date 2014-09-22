@@ -8,6 +8,10 @@
 
 <a target="_blank" href="https://drive.google.com/folderview?id=0B3rwR5mFpY3gTGRvX3BIZktSZDA&usp=sharing">dFab Printers</a>
 
+### Other Stuff
+
+[OpenSCAD CheatSheet](http://www.openscad.org/cheatsheet/)
+
 ### Classes
 
 {{# weeks.all }}
