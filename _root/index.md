@@ -6,4 +6,6 @@ layout: default
 ### [{{ title }}]({{url}})
 {{{ content }}}
 <hr />
+Oh hai!
+<hr />
 {{/ weeks.all }}
