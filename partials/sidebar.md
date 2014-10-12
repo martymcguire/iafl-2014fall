@@ -8,11 +8,13 @@
 
 <a target="_blank" href="https://drive.google.com/folderview?id=0B3rwR5mFpY3gTGRvX3BIZktSZDA&usp=sharing">dFab Printers</a>
 
-### Laser Files
+### Laser Links
 
-<a target="_blank" href="https://docs.google.com/a/mica.edu/spreadsheet/ccc?key=0AhPTNNn8njyrdHZQb1FBTGxGRjQwT2ZZUnZvd0RXd0E&usp=drive_web#gid=0">Settings for Accuris Laser</a>
+<a href="{{urls.media}}/weeks/05/dFab_LaserTemplate.ai">dFab Laser Template for Illustrator</a>
 
-<a target="_blank" href="https://docs.google.com/a/mica.edu/spreadsheet/ccc?key=0AhPTNNn8njyrdG45dGo0MXdoNHpiVE03VjhydHVMaHc&usp=drive_web#gid=0">Settings for Mercury Laser</a>
+<a href="http://www.troteclaser.com/en-US/Laser-Machines/Mid-Size/Pages/Speedy300.aspx">Trotec Speedy 300 Info</a>
+
+<a href="https://github.com/martymcguire/iafl-2014fall-laser-materials-settings">Laser Materials Settings</a>
 
 ### Other Stuff
 
