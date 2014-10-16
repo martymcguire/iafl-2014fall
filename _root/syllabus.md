@@ -134,7 +134,7 @@ Week | Date  | Topics | Major Deliverables
 4    | 9/29  | Project 1 Work Session |
 5    | 10/6  | Project 1 Presentations |
 6    | 10/13 | Introduction to laser cutting toolchain | Project 1 Documentation Due
-7    | 10/20 | Inkscape for laser cut designs |
+7    | 10/20 | *Fall Break* |
 8    | 10/27 | OpenSCAD Advanced, Parametric and Procedural Forms |
 9    | 11/3  | GitHub Advanced, Project Documentation |
 10   | 11/10 | Project 2 Work Session |
