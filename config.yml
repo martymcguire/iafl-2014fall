@@ -10,5 +10,11 @@ weeks:
   layout: week
   sort: ["title", "desc"]
 
+assignments:
+  paginator:
+    enable: false
+  layout: assignment
+  sort: ["due", "desc"]
+
 base_path: '/iafl-2014fall'
 production_url: 'http://marty-mcguire.com'
