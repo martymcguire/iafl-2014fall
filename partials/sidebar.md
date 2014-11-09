@@ -2,6 +2,8 @@
 
 <a target="_blank" href="{{urls.base_path}}syllabus/">Online Syllabus</a> (<a href="{{urls.media}}/syllabus.pdf">PDF</a>)
 
+<a target="_blank" href="{{urls.base_path}}assignments/">List of Assignments</a>
+
 <a target="_blank" href="{{urls.media}}/dFab Shop Hours 2014 Fall.pdf">dFab Hours</a>
 
 ### Slic3r Configs
