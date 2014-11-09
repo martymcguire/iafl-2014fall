@@ -1,10 +1,10 @@
 ---
 due: "week8"
 tags: "week6"
+name: "HW3 - Laser Cut Form"
 deliverables:
   - due: "week8"
     type: "github-hw"
-    name: "hw3"
 ---
 
 ### Before October 27th Class - Do This

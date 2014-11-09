@@ -1,6 +1,7 @@
 ---
 due: "week3"
 tags: "week2"
+name: "HW2 - OpenSCAD 2"
 deliverables:
   - due: "week3"
     type: "gdrive"

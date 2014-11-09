@@ -6,6 +6,7 @@ deliverables:
     type: "gdrive"
   - due: "week4"
     type: "github-hw"
+name: "HW1 - OpenSCAD 1"
 ---
 
 ### Do this stuff:

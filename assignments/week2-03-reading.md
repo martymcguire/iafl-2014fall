@@ -1,9 +1,6 @@
 ---
 due: "week3"
 tags: "week2"
-deliverables:
-  - due: week3
-    type: discussion
 ---
 
 ### Finish reading/read this stuff (we'll discuss it next week):

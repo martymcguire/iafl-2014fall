@@ -1,10 +1,10 @@
 ---
 due: "week9"
 tags: "week8"
+name: "HW4 - Parametric Form (3 from 3)"
 deliverables:
   - due: "week9"
     type: "github-hw"
-    name: "hw-parametric"
 ---
 
 ### Parametric form (3 from 3 due Nov. 3rd)

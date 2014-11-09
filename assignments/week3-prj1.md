@@ -1,6 +1,8 @@
 ---
+assigned: "week3"
 due: "week6"
 tags: "prj1"
+name: "Project 1"
 deliverables:
   - due: "week5"
     type: "presentation"

@@ -15,6 +15,8 @@ assignments:
     enable: false
   layout: assignment
   sort: ["due", "desc"]
+  rss:
+    enable: false
 
 base_path: '/iafl-2014fall'
 production_url: 'http://marty-mcguire.com'

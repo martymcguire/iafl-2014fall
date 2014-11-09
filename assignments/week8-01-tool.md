@@ -1,10 +1,10 @@
 ---
 due: "week10"
 tags: "week8"
+name: "Printable Tool Research"
 deliverables:
   - due: "week10"
     type: "github-hw"
-    name: "hw-tool"
   - due: "week10"
     type: "discussion"
 ---

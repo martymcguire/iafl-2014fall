@@ -1,2 +1,9 @@
 ---
 class_name: "IA FabLab (IA 351.01, Fall 2014)"
+first_date: "2014-09-08"
+deliverables:
+  "discussion": "In-Class Discussion"
+  "github-hw": "GitHub Documentation"
+  "github-prj": "GitHub Project Documentation"
+  "presentation": "In-Class Presentations and Critiques"
+  "gdrive": "Turn-In via Google Drive Dropbox"

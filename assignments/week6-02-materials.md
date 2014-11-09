@@ -1,10 +1,10 @@
 ---
 due: "week8"
 tags: "week6"
+name: "Laser Materials Testing"
 deliverables:
   - due: "week8"
-    type: "github-materials"
-    name: "hw-materials"
+    type: "github-hw"
 ---
 
 ### Before October 27th Class - Do This

@@ -1,10 +1,10 @@
 ---
 due: "week10"
 tags: "week9"
+name: "HW5 - Portrait"
 deliverables:
   - due: "week10"
     type: "github-hw"
-    name: "hw-portrait"
 ---
 
 ### Manipulate your self portrait .stl with OpenSCAD (due Nov. 10th)

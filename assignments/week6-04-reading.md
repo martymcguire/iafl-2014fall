@@ -1,10 +1,10 @@
 ---
 due: "week8"
 tags: "week6"
+name: "Reading: System of Objects"
 deliverables:
   - due: "week8"
     type: "discussion"
-    name: "system-of-objects"
 ---
 
 <a name="wk6_read_this"></a>
