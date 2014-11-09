@@ -4,7 +4,7 @@ module AssignmentsCollectionViewAddons
   end
 
   def weeks
-    all.map{|a| Integer(a.due.gsub(/week/,''))}.sort.uniq.reverse
+    with_deliverables.flat_map{ |a| a.deliverables.map{|d| Integer(d['due'].gsub(/week/,''))}}.sort.uniq.reverse
   end
 
   def pretty_deliverable(type)
