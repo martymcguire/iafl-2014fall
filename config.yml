@@ -8,7 +8,7 @@ weeks:
   paginator:
     enable: false
   layout: week
-  sort: ["title", "desc"]
+  sort: ["id", "desc"]
 
 assignments:
   paginator:
