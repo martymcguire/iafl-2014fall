@@ -23,6 +23,10 @@ Use any modeling tools that you like. I recommend [Autodesk MeshMixer](http://ww
 
 <iframe width="710" height="399" src="//www.youtube.com/embed/5m9SG9C_lUo?rel=0" frameborder="0" allowfullscreen></iframe>
 
+Mateo kindly pointed out that the lab machines in Brown 217 have licenses for Skanect Pro - you can use these to export the full resolution scans if you like.
+
+The dFab lab machines may also have full licenses. You will want to double-check before exporting.
+
 Today is a work session - time to use the scanners, brainstorm with other
 students, do your modeling, and print.
 
