@@ -19,7 +19,7 @@ Presentations on Nov 17th. Documentation Due by Nov 24th.
 For this project, I would like you to create and print a digital form by merging
 at least two clean 3D scans of one or more humans.
 
-Use any modeling tools that you like. I recommend MeshMixer.
+Use any modeling tools that you like. I recommend [Autodesk MeshMixer](http://www.meshmixer.com/download.html).
 
 <iframe width="710" height="399" src="//www.youtube.com/embed/5m9SG9C_lUo?rel=0" frameborder="0" allowfullscreen></iframe>
 
