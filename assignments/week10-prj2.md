@@ -34,6 +34,6 @@ Presentations and critique will happen next week.
 
 Schedule:
 
-Nov. 10th: Work session. Find partners. Scan. Model.  
+Nov. 10th: Work session. Scan (help each other scan). Model. Print.  
 Nov. 17th: Project presentations.  
 Nov. 24th: Documentation due.  
