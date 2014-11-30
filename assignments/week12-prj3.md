@@ -6,7 +6,7 @@ name: "Project 3"
 deliverables:
   - due: "week15"
     type: "github-prj"
-  - due: "week14"
+  - due: "week15"
     type: "presentation"
 ---
 
